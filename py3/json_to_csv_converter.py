@@ -1,7 +1,6 @@
 import json
 import csv
 import os
-
 print("\nWelcome to the JSON to CSV converter")
 
 class Converter:
