@@ -1,5 +1,5 @@
 class Hotel:
-    def __init__(self):
+ def __init__(self):
         self.rooms = {}
 
     def book_room(self, guest_name, room_number):
